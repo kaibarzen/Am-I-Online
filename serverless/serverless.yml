@@ -16,6 +16,8 @@ package:
 functions:
   online:
     handler: src/online.online
+    timeout: 1
+    memorySize: 128
     events:
       - http:
           path: online
