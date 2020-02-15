@@ -20,3 +20,4 @@ functions:
       - http:
           path: online
           method: get
+          cors: true
