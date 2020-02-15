@@ -1,0 +1,14 @@
+{
+  "name": "amionline-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "testOnline": "serverless invoke local -f online -p src/online.js"
+  },
+  "author": "Kai Barzen",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "serverless": "^1.63.0"
+  }
+}

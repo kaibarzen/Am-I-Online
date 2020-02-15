@@ -1,0 +1,22 @@
+service: amionline
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: production
+  region: eu-central-1
+
+package:
+  include:
+    - src/**
+  exclude:
+    - .idea/** # IDE folder
+    - test/** # Local testing folder
+
+functions:
+  online:
+    handler: src/online.online
+    events:
+      - http:
+          path: online
+          method: get
