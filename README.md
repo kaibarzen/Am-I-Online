@@ -10,7 +10,7 @@ Discover "Am I Online"
 
 #### Know your connection status.
 
-Always know your latest device connectivity!*
+Always know your latest device connectivity! *1
 
 #### Modern Design 🎀
 
@@ -25,5 +25,16 @@ Always know your connection status, even offline.
 
 For the icing on the cake we created an Serverless scalable api powered by Jeff Bezos himself. Taste the Performance.
 
+## Pricing
+|User Count | Per User Per Month|
+|---|---|
+| Personal | Free |
+| Up to 10 | 7$ |
+| Up to 50 | 6$ |
+| Up to 100 | 5$ |
+
+Need more? Call our Enterprise Hotline and get a quote.
+E-Mail: noreply@microsoft.com
+
 ---
-Notice * May have up to 14 seconds of latency.
+Notice *1 May have up to 14 seconds of latency.
