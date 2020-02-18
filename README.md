@@ -1,20 +1,20 @@
-#Am I online?
+# Am I Online?
 
-Our team presents an all new pwa.
+Am I Online? Am I truly Only? Mankind could not answer this question for generations upon generations.
 
-We present **"Am I online?"**.
+But now we can.
 
-Discover your connection status now!
+Discover "Am I Online"
 
-## Features
+## Signature Features
 
 #### Know your connection status.
 
-Always know your latest device connectivity!
+Always know your latest device connectivity!*
 
-####Modern Design 🎀
+#### Modern Design 🎀
 
-This app got handcrafted by an professional team of developers to meet the high requirements of our customers and users.
+This app got handcrafted by an professional team of designers to meet the high quality our customers and users desire.
 
 #### Offline capability 🏆
 
@@ -24,3 +24,6 @@ Always know your connection status, even offline.
 #### Scalable Serverless API ☁
 
 For the icing on the cake we created an Serverless scalable api powered by Jeff Bezos himself. Taste the Performance.
+
+---
+Notice * May have up to 14 seconds of latency.
