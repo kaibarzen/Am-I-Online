@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Am-I-Online/static/css/main.ac5d113a.chunk.css",
+    "main.js": "/Am-I-Online/static/js/main.46386e51.chunk.js",
+    "main.js.map": "/Am-I-Online/static/js/main.46386e51.chunk.js.map",
+    "runtime-main.js": "/Am-I-Online/static/js/runtime-main.7c7d2c3f.js",
+    "runtime-main.js.map": "/Am-I-Online/static/js/runtime-main.7c7d2c3f.js.map",
+    "static/css/2.b8b4688e.chunk.css": "/Am-I-Online/static/css/2.b8b4688e.chunk.css",
+    "static/js/2.9ceff3c5.chunk.js": "/Am-I-Online/static/js/2.9ceff3c5.chunk.js",
+    "static/js/2.9ceff3c5.chunk.js.map": "/Am-I-Online/static/js/2.9ceff3c5.chunk.js.map",
+    "index.html": "/Am-I-Online/index.html",
+    "precache-manifest.7ee26ecfad19dd298779e3d6ce0b82ea.js": "/Am-I-Online/precache-manifest.7ee26ecfad19dd298779e3d6ce0b82ea.js",
+    "service-worker.js": "/Am-I-Online/service-worker.js",
+    "static/css/2.b8b4688e.chunk.css.map": "/Am-I-Online/static/css/2.b8b4688e.chunk.css.map",
+    "static/css/main.ac5d113a.chunk.css.map": "/Am-I-Online/static/css/main.ac5d113a.chunk.css.map",
+    "static/js/2.9ceff3c5.chunk.js.LICENSE.txt": "/Am-I-Online/static/js/2.9ceff3c5.chunk.js.LICENSE.txt",
+    "static/media/offline.ico": "/Am-I-Online/static/media/offline.fd927235.ico",
+    "static/media/online.ico": "/Am-I-Online/static/media/online.ee3ef083.ico",
+    "static/media/index.css": "/Am-I-Online/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c7d2c3f.js",
+    "static/css/2.b8b4688e.chunk.css",
+    "static/js/2.9ceff3c5.chunk.js",
+    "static/css/main.ac5d113a.chunk.css",
+    "static/js/main.46386e51.chunk.js"
+  ]
+}
