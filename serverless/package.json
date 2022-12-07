@@ -9,6 +9,6 @@
   "author": "Kai Barzen",
   "license": "UNLICENSED",
   "devDependencies": {
-    "serverless": "^1.63.0"
+    "serverless": "^3.25.1"
   }
 }
